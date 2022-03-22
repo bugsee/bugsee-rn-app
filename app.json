@@ -1,0 +1,24 @@
+{
+  "name": "ReactNativeStarterApp",
+  "displayName": "ReactNativeStarterApp",
+  "environments": {
+    "development": {
+      "API_URL": "https://ghibliapi.herokuapp.com",
+      "ENV": "development",
+      "BUGSEE_IOS_TOKEN": "",
+      "BUGSEE_ANDROID_TOKEN": ""
+    },
+    "staging": {
+      "API_URL": "https://ghibliapi.herokuapp.com",
+      "ENV": "staging",
+      "BUGSEE_IOS_TOKEN": "",
+      "BUGSEE_ANDROID_TOKEN": ""
+    },
+    "production": {
+      "API_URL": "https://ghibliapi.herokuapp.com",
+      "ENV": "production",
+      "BUGSEE_IOS_TOKEN": "",
+      "BUGSEE_ANDROID_TOKEN": ""
+    }
+  }
+}

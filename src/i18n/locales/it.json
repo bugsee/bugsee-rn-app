@@ -1,0 +1,23 @@
+{
+  "common": {
+    "italian": "Italiano",
+    "english": "Inglese"
+  },
+  "Header": {
+    "back": "Indietro"
+  },
+  "Homepage": {
+    "welcome": "Benvenuti nell'applicazione di test Bugsee React Native!",
+    "subtitle": "Prova a testare Bugsee",
+    "openTestsPage": "Aprire la pagina dei test",
+    "openModal": "Apri la modale"
+  },
+  "AnotherPage": {
+    "welcome": "Benvenuto in un'altra pagina",
+    "OtherPage": "Test Bugsee"
+  },
+  "ModalPage": {
+    "PageName": "Modale",
+    "thisIsAModal": "Questa è una modale!"
+  }
+}
